@@ -1,0 +1,5 @@
+class QueroSoVer:
+	defstatic void main(String[] args):
+		erro = 1 + 1;
+	end;
+end.
